@@ -81,7 +81,16 @@ The Address Book Management System is a console-based application developed in C
 
 ---
 
-## 📸 Sample Output
+## 📸 Screenshots
+
+### Menu
+![Menu](screenshots/menu.png)
+
+### Create Contact
+![Create](screenshots/create.png)
+
+### List Contacts
+![List](screenshots/list.png)
 
 ## 🧠 Key Learnings
 - Modular programming using multiple files
